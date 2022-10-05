@@ -1,0 +1,7 @@
+fastapi
+gunicorn
+unicorn
+jinja2
+pytest
+requests
+pre-commit
